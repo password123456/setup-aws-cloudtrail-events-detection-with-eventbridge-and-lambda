@@ -1,0 +1,1 @@
+# setup-aws-cloudtrail-events-detection-with-eventbridge-and-lambda

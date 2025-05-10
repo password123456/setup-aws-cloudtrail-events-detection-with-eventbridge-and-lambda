@@ -1,7 +1,5 @@
 # Setup AWS CloudTrail Events Detection with EventBridge and Lambda
-![Hits][hits-button]
-
-[hits-button]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpassword123456%2Fsetup-aws-cloudtrail-events-detection-with-eventbridge-and-lambda&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+[![Hits](https://hits.sh/github.com/password123456/setup-aws-cloudtrail-events-detection-with-eventbridge-and-lambda.svg?view=today-total)](https://hits.sh/github.com/password123456/setup-aws-cloudtrail-events-detection-with-eventbridge-and-lambda/)
 
 This guide details how to define detection rules for events collected through AWS CloudTrail and detect them using AWS EventBridge. The detected events are then notified through a Lambda function and can be viewed directly in CloudTrail.
 
